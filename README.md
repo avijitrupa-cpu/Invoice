@@ -1,5 +1,5 @@
-# Invoice
-<!DOCTYPE html>
+All In One Invoice
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
